@@ -1,5 +1,5 @@
 {
-  "name": "chai-fs",
+  "name": "@yawetse/chai-fs",
   "version": "0.4.0-rc.0",
   "description": "Chai assertions for Node.js filesystem",
   "author": {
