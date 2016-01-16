@@ -12,12 +12,12 @@ All assertions are available in `expect`, `should` and `assert` style, and suppo
 
 Install from npm:
 
-    $ npm install chai-fs
+    $ npm install @yawetse/chai-fs
 
 Have chai use the chai-fs module:
 
     var chai = require('chai');
-    chai.use(require('chai-fs'));
+    chai.use(require('@yawetse/chai-fs'));
 
 ### browser-side
 
